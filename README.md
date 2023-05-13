@@ -4,7 +4,7 @@ Estudante de Engenharia de Software na PUCRS, viciado em aprender novas linguage
 
 <div>
   <img width="40%" src="https://github-readme-stats.vercel.app/api?username=ericklmuniz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img align="right" width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericklmuniz&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img align="right" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericklmuniz&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 <br>
 
